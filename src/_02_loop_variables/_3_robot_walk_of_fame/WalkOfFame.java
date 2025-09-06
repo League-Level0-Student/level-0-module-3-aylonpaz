@@ -31,13 +31,13 @@ public class WalkOfFame {
 				if(mtnDewBotBaja<7) {
 					rob.penDown();
 				}
-				rob.penUp();
-				rob.setAngle(180);
-				rob.move(100);
-				rob.penDown();
-				rob.setAngle(180);
+				
 			}
-			
+			rob.penUp();
+			rob.setAngle(180);
+			rob.move(100);
+			rob.penDown();
+			rob.setAngle(180);
 			
 			
 			
