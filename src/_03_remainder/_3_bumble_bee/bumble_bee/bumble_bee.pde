@@ -16,7 +16,9 @@ void draw() {
 Use remainder to make the colors alternate between yellow and black
 */
 
-
+for(int jeffery = 0; jeffery <69; jeffery +=1){
+  
+}
 
 /*
 Now put his head on using drawBeeFace(x,y)
